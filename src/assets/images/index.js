@@ -6,7 +6,7 @@ import iPhone2 from "./iPhone2.webp";
 import iPhone3 from "./iPhone3.png";
 import iPhone4 from "./iPhone5.png";
 import iPhone10 from "./iphone10.png";
-import iPhone11 from "./iPhone11.png";
+import iPhone11 from "./iphone11.png";
 
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
